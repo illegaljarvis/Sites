@@ -42,14 +42,14 @@ margin:0;
     position:absolute;
     left:24.375rem;
     bottom:15.625rem;
-  
+  justify-content: center;
     
 }
 .cloud2{
     position:absolute;
     right:21.875rem; 
     top:6.25rem;
-
+justify-content: center;
 }
 .mypic{
     height:200px;
