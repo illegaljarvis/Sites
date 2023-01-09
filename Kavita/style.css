@@ -27,16 +27,16 @@ display:inline-block;
 }
 .english{
     text-align:left;
-    padding:20px;
+    padding:1.25rem;
     font-size:x-large;
     position:absolute;
 }
 .hindi{
     text-align: left;
 position:absolute;
-   left:70%;
+   left:50%;
    font-size: x-large;
-   padding:20px;
+   padding:1.25rem;
 }
 p{
     display:block;
