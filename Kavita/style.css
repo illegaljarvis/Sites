@@ -3,10 +3,9 @@ body{
     margin:0; /*if only margin is written then it consist of all 4 types of margin ie bottom top right left*/
     text-align:center;
     font-family:'Merriweather',serif;
-    background-color:#E4F9F5;
 }
 .main{
-    background-color:#E4F9F5;
+    background-image:url(kavitabg.jpg);
     margin:0;
 }
 
@@ -27,16 +26,13 @@ display:inline-block;
 }
 .english{
     text-align:left;
-    padding:1.25rem;
+    
     font-size:x-large;
-    position:absolute;
+
 }
 .hindi{
     text-align: left;
-position:absolute;
-   left:50%;
    font-size: x-large;
-   padding:1.25rem;
 }
 p{
     display:block;
@@ -73,6 +69,11 @@ h4{
    color:#EAF6F6;
    font-size: 120%;
    text-align: center;
+}
+.divi{
+    text-decoration-line: none;
+    display:inline-block;
+    padding: 1rem;
 }
 
 
