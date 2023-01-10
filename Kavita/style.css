@@ -54,6 +54,11 @@ p{
     margin: 20px;
     text-decoration-line: none ;
 }
+.text:hover{
+    color:#66BFBF;
+   zoom:102%;
+}
+p{
 p{
     line-height:2;
 }
@@ -79,4 +84,8 @@ h4{
 
 .box:hover{
     background-color:#11999E;
+    zoom: 102%;
+}
+h4:hover{
+    color: aqua;
 }
