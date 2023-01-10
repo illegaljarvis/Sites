@@ -88,6 +88,6 @@ h4{
 h4:hover{
     color: aqua;
 }
-.box:select{
+.box:selection{
     background-color:aquamarine;
 }
