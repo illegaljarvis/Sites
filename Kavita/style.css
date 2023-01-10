@@ -1,5 +1,6 @@
 body{
     color:#405143;
+     background-color:#E4F9F5;
     margin:0; /*if only margin is written then it consist of all 4 types of margin ie bottom top right left*/
     text-align:center;
     font-family:'Merriweather',serif;
